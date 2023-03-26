@@ -3,5 +3,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/atharva-narkhede-gfg-leetcode/count.svg" />
+  <img src="https://profile-counter.glitch.me/atharva-narkhede-gfg-leetcode-gfgpotd/count.svg" />
 </p>
