@@ -1,3 +1,5 @@
+#Given two Lists of strings s1 and s2, you have to count the number of strings in s2 which is either a suffix or prefix of at least one string of s1.
+
 class Solution:
     def prefixSuffixString(self, s1, s2) -> int:
         prefixes = set()
